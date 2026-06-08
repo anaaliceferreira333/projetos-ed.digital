@@ -21,5 +21,6 @@ border:2px;
 }
 
 .links{
-    display: ;
+    display: flex;
+    flex-direction: column;
 }

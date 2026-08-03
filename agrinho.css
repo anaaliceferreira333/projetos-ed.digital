@@ -10,4 +10,7 @@ body{
 
 header{
     display: flex;
+        flex-direction: row-reverse;
+    align-items: stretch;
+
 }

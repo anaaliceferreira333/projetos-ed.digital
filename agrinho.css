@@ -10,7 +10,9 @@ body{
 
 header{
     display: flex;
-        flex-direction: row-reverse;
-    align-items: stretch;
+    flex-direction: row-reverse;
+    align-items: flex-start;
+    justify-content: space-between;
+    padding: 12px
 
 }

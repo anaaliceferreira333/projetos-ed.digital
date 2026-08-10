@@ -22,3 +22,10 @@ header{
     display: grid;
     grid-template-columns: 25% 25% 25% 25%;
 }
+
+
+.body{
+display: grid;
+    grid-template-columns: 55% 45%
+}
+    

@@ -24,3 +24,8 @@ border:2px;
     display: flex;
     flex-direction: column;
 }
+
+.lado{
+    display: grid;
+    grid-template-columns: 55% 45%;
+}

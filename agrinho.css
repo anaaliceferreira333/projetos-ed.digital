@@ -16,3 +16,9 @@ header{
     padding: 12px
 
 }
+
+
+.lado1 {
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+}

@@ -25,7 +25,7 @@ border:2px;
     flex-direction: column;
 }
 
-.lado{
+.body .lado{
     display: grid;
     grid-template-columns: 55% 45%;
 }

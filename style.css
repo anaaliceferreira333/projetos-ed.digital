@@ -1,31 +1,32 @@
-.foto{
+.foto {
     width: 25%;
 }
 
-body{
+body {
     background-color: #44c6ddde;
-display: flex;
+    display: flex;
 
-align-items: center;
-justify-content: space-evenly;
+    align-items: center;
+    justify-content: space-evenly;
 }
 
-div{ margin: 19px;
+div {
+    margin: 19px;
     padding: 2px;
 
 }
 
-a{
-color: black;
-border:2px;
+a {
+    color: black;
+    border: 2px;
 }
 
-.links{
+.links {
     display: flex;
     flex-direction: column;
 }
 
-.body{
+.body {
     display: grid;
     grid-template-columns: 55% 45%;
 }

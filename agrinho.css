@@ -28,3 +28,9 @@ header{
 display: grid;
     grid-template-columns: 42% 58%
 }
+
+.body{
+display: grid;
+    grid-template-columns: 60% 40%
+
+}

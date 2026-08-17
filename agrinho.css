@@ -26,7 +26,8 @@ header{
 
 .body{
 display: grid;
-    grid-template-columns: 58% 42%
+    grid-template-columns: 58% 42%;
+        justify-items: center;
 }
 
 .body{

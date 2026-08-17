@@ -1,7 +1,8 @@
 .amarelo{
     color: #f1f776;
     background-color: #612916;
-}
+   grid-template-columns: 58% 42%;
+        justify-items: center;}
 
 body{
     color: #612916;

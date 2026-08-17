@@ -1,6 +1,7 @@
 .amarelo{
     color: #f1f776;
     background-color: #612916;
+    display: grid;
    grid-template-columns: 58% 42%;
         justify-items: center;}
 

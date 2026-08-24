@@ -37,3 +37,9 @@ display: grid;
     grid-template-columns: 55% 45%
 
 }
+
+footer{
+display: grid;
+    grid-template-columns: 30% 70%
+
+}

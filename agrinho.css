@@ -42,3 +42,8 @@ display: grid;
     grid-template-columns: 70% 30%
     
 }
+.final2{
+display: grid;
+    grid-template-columns: 75% 25%
+
+}

@@ -37,9 +37,8 @@ display: grid;
     grid-template-columns: 55% 45%
 
 }
-
-footer{
+.final{
 display: grid;
-    grid-template-columns: 50% 50%
-
+    grid-template-columns: 55% 45%
+    
 }
